@@ -1,0 +1,21 @@
+* andy and ellen icafe network instrucure
+** device price list 
+| device          | price |
+| [[https://routerboard.com/RB951G-2HnD][RB951G]]          |   520 |
+| [[https://www.ubnt.com/unifi/unifi-ap-ac-lite/][AC Lite]]*2       |   636 |
+| [[https://routerboard.com/RB260GSP][RB260GSP]]        |   400 |
+| [[http://www.apple.com/lae/airport-express/][airport express]] |       |
+520+636x2+400 = 2192 (RMB)
+2192 * 4.5470 = 9967.024 (NTD)
+** deploy 
+store map 
+*** solution ?
+    -openwrt 
+    -unifi solution 
+** service 
+FTP service document 
+sheep wall 
+* new menu
+
+
+
